@@ -8,3 +8,6 @@ When Using Arrow Core 2.0.0 I'm getting:
         Please remove or make sure it appears in the correct subdirectory of the classpath.
 
 Everything works fine if I use `1.2.4`, or replace `NonEmptyList` with `List`
+
+### How to reproduce
+    ./gradlew build
